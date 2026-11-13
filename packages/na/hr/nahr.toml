@@ -1,0 +1,7 @@
+name = "nahr"
+
+[[versions]]
+version = "…"
+git = "https://github.com/supax0/nahr.git"
+commit = "…"
+checksum = "sha256:…"
