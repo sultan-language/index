@@ -1,0 +1,3 @@
+# صيغة الفهرس. سوباكس يرفض صيغة أحدث مما يعرفه ويطلب تحديثه.
+# Index format version. Supax refuses a newer format and asks to be updated.
+version = 1
